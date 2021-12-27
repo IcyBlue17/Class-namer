@@ -61,3 +61,4 @@ while True:
         print('您输入了字符代替了数字，请重试！')
         print('You inputed the word to instead number,please try again!')
         continue
+#
